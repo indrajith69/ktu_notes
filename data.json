@@ -1,0 +1,1231 @@
+{
+
+    "ComputerScience":{
+      "S1":{
+          "NumberOfSubjects": 5,
+          "Subject1":{
+            "SubjectName": "Engineering Chemistry",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "Electrochemistry and Corrosion",
+              "syllabus": "Introduction - Differences between electrolytic and electrochemical cells - Daniel cell - redox reactions - cell representation. Different types of electrodes (brief) - Reference electrodes - SHE - Calomel electrode - Glass Electrode - Construction and Working. Single electrode potential - definition - Helmholtz electrical double layer -Determination of E 0 using calomel electrode.Determination of pH using a glass electrode.Electrochemical series and its applications. Free energy and EMF - Nernst Equation - Derivation - single electrode and cell (Numericals) -Application - Variation of emf with temperature. Potentiometric titration - Introduction -Redox titration only.Lithium-ion cell - construction and working.Conductivity- Measurement of conductivity of a solution (Numericals). \n\nCorrosion-Electrochemicalcorrosion – mechanism. Galvanic series- cathodic protection - electroless plating –Copper and Nickel plating.""",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "Spectroscopic Techniques and Applications",
+              "syllabus": """Introduction- Types of the spectrum - electromagnetic spectrum - molecular energy levels - Beer Lambert’s law (Numericals). UV-Visible Spectroscopy – Principle - Types of electronic transition Energy level diagram of ethane, butadiene, benzene and hexatriene. Instrumentation of UV-Visible spectrometer and applications.IR-Spectroscopy – Principle - Number of vibrational modes - Vibrational energy states of a diatomic molecule and -Determination of force constant of diatomic 1 molecule (Numericals) –Applications. H NMR spectroscopy – Principle - Relation between field strength and frequency - chemical shift - spin-spin splitting (spectral problems ) - coupling constant (definition) - applications of NMR- including MRI (brief).""",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "Instrumental Methods and Nanomaterials",
+              "syllabus": "Thermal analysis –TGA- Principle, instrumentation (block diagram) and applications – TGA of CaC 2 O 4 . H 2 O and polymers. DTA-Principle, instrumentation (block diagram) and applications - DTA of CaC 2 O 4 . H 2 O. Chromatographic methods - Basic principles and applications of column and TLC- Retention factor. GC and HPLC-Principle, instrumentation (block diagram) - retention time and applications. Nanomaterials - Definition - Classification - Chemical methods of preparation - Hydrolysis and Reduction - Applications of nanomaterials - Surface characterisation -SEM – Principle and instrumentation (block diagram).",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "Stereochemistry and Polymer Chemistry",
+              "syllabus": "Isomerism-Structural, chain, position, functional, tautomerism and matamerism - Definition with examples - Representation of 3D structures-Newman, Sawhorse, Wedge and Fischer projection of substituted methane and ethane. Stereoisomerism - Geometrical isomerism in double bonds and cycloalkanes (cis-trans and E-Z notations). R-S Notation – Rules and examples - Optical isomerism, Chirality, Enantiomers and Diastereoisomers-Definition with examples.Conformational analysis of ethane, butane, cyclohexane, mono and di methyl substituted cyclohexane.\n\nCopolymers - Definition - Types - Random, Alternating, Block and Graft copolymers - ABS - preparation, properties and applications.Kevlar-preparation, properties and applications.Conducting polymers - Doping -Polyaniline and Polypyrrole - preparation properties and applications. OLED - Principle, construction and advantages.",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "Water Chemistry and Sewage Water Treatment",
+              "syllabus": "Water characteristics - Hardness - Types of hardness- Temporary and Permanent - Disadvantages of hard water -Units of hardness- ppm and mg/L -Degree of hardness (Numericals) - Estimationhardness-EDTA method (Numericals). Water softening methods-Ion exchange process-Principle procedure and advantages. Reverse osmosis – principle, process and advantages. Municipal waste treatment (brief) - Disinfection methods - chlorination, ozone and UV irradiation. \n\nDissolved oxygen (DO) -Estimation (only brief procedure-Winkler’s method), BOD and COD- definition, estimation (only brief procedure) and significance (Numericals). Sewage water treatment - Primary, Secondary and Tertiary - Flow diagram -Trickling filter and UASB process.",
+              "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+            },
+          },
+          "Subject2":{
+            "SubjectName": "Basic Civil And Mechanical",
+            "NumberOfModules": 6,
+            "M1":{
+              "title": "General Introduction to Civil Engineering",
+              "syllabus": "General Introduction to Civil Engineering: Relevance of Civil Engineering in the overall infrastructural development of the country. Responsibility of an engineer in ensuring the safety of built environment. Brief introduction to major disciplines of Civil Engineering like Transportation Engineering, Structural Engineering, Geo-technical Engineering, Water Resources Engineering and Environmental Engineering.\n\nIntroduction to buildings: Types of buildings, selection of site for buildings, components of a residential building and their functions. Building rules and regulations: Relevance of NBC, KBR & CRZ norms (brief discussion only).\n\nBuilding area: Plinth area, built up area, floor area, carpet area and floor area ratio for a building as per KBR.",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "Surveying",
+              "syllabus": "Surveying: Importance, objectives and principles.\n\nConstruction materials, Conventional construction materials: types, properties and uses of building materials: bricks, stones, cement, sand and timber\n\nCement concrete: Constituent materials, properties and types. Steel: Steel sections and steel reinforcements, types and uses.\n\nModern construction materials:- Architectural glass, ceramics, Plastics, composite materials, thermal and acoustic insulating materials, decorative panels, waterproofing materials. Modern uses of gypsum, pre-fabricated building components (brief discussion only)",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "Building Construction",
+              "syllabus": "Building Construction: Foundations: Bearing capacity of soil (definition only), functions offoundations, types – shallow and deep (brief discussion only). Load bearing and framed structures (concept only).\n\nBrick masonry: - Header and stretcher bond, English bond & Flemish bond random rubble masonry. Roofs and floors: - Functions, types; flooring materials (brief discussion only).\n\nBasic infrastructure services: MEP, HVAC, elevators, escalators and ramps (Civil Engineering aspects only), fire safety for buildings.\n\nGreen buildings:- Materials, energy systems, water management and environment for green buildings. (brief discussion only). ",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "Analysis of thermodynamic cycles",
+              "syllabus": "Carnot, Otto, Diesel cycles, Derivation of efficiency of these cycles, Problems to calculate heat added, heat rejected, net work and efficiency. IC Engines: CI, SI, 2- Stroke, 4-Stroke engines. Listing the parts of different types of IC Engines. Efficiencies of IC Engines(Definitions only), Air, Fuel, cooling and lubricating systems in SI and CI Engines, CRDI, MPFI. Concept of hybrid engines. ",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "Refrigeration",
+              "syllabus": " Unit of refrigeration, reversed Carnot cycle,COP, vapour compression cycle (only description and no problems); Definitions of dry, wet & dew point temperatures, specific humidity and relative humidity, Cooling and dehumidification, Layout of unit and central air conditioners. Description about working with sketches of: Reciprocating pump, Centrifugal pump, Pelton turbine, Francis turbine and Kaplan turbine. Overall efficiency, Problems on calculation of input and output power of pumps and turbines (No velocity triangles)\n\nDescription about working with sketches of: Belt and Chain drives, Gear and Gear trains, Single plate clutches.",
+              "url": "pdf url",
+            },
+            "M6":{
+              "title": "Manufacturing Process",
+              "syllabus": "Manufacturing Process: Basic description of the manufacturing processes – Sand Casting, Forging, Rolling, Extrusion and their applications.\n\nMetal Joining Processes: List types of welding, Description with sketches of Arc Welding, Soldering and Brazing and their applications\n\nBasic Machining operations: Turning, Drilling, Milling and Grinding.\n\nDescription about working with block diagram of: Lathe, Drilling machine, Milling machine, CNC Machine. Principle of CAD/CAM, Rapid and Additive manufacturing. ",
+              "url": "pdf url",
+            },
+          },
+          "Subject3":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject4":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject5":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+      },
+      "S3":{
+          "NumberOfSubjects": 6,
+          "Subject1":{
+            "SubjectName": "Data Structures",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "Basic Concepts of Data Structures",
+              "syllabus": "System Life Cycle, Algorithms, Performance Analysis, Space Complexity, Time Complexity, Asymptotic Notation, Complexity Calculation of Simple Algorithms",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "Arrays and Searching",
+              "syllabus": "Polynomial representation using Arrays, Sparse matrix, Stacks, Queues-Circular Queues, Priority Queues, Double Ended Queues, Evaluation of Expressions\n\nLinear Search and Binary Search",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "Linked List and Memory Management",
+              "syllabus": "Self Referential Structures, Dynamic Memory Allocation, Singly Linked List-Operations on Linked List. Doubly Linked List, Circular Linked List, Stacks and Queues using Linked List, Polynomial representation using Linked List\n\nMemory allocation and de-allocation-First-fit, Best-fit and Worst-fit allocation schemes",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "Trees and Graphs",
+              "syllabus": "Trees, Binary Trees-Tree Operations, Binary Tree Representation, Tree Traversals, Binary Search Trees- Binary Search Tree Operations\n\nGraphs, Representation of Graphs, Depth First Search and Breadth First Search on Graphs, Applications of Graphs",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "Sorting and Hashing",
+              "syllabus": "Sorting Techniques – Selection Sort, Insertion Sort, Quick Sort, Merge Sort and Heap Sort\n\nHashing- Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions – Mid square, Division, Folding, Digit Analysis",
+              "url": "pdf url",
+            },
+          },
+          "Subject2":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject3":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject4":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject5":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+      },
+      "S2":{
+          "NumberOfSubjects": 5,
+          "Subject1":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject2":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject3":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject4":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject5":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+      },
+      "S4":{
+          "NumberOfSubjects": 5,
+          "Subject1":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject2":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject3":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject4":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject5":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+      },
+      "S5":{
+          "NumberOfSubjects": 5,
+          "Subject1":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject2":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject3":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject4":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject5":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+      },
+      "S6":{
+          "NumberOfSubjects": 5,
+          "Subject1":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject2":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject3":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject4":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject5":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+      },
+      "S7":{
+          "NumberOfSubjects": 5,
+          "Subject1":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject2":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject3":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject4":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject5":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+      },
+      "S8":{
+          "NumberOfSubjects": 5,
+          "Subject1":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject2":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject3":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject4":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+          "Subject5":{
+            "SubjectName": "subject name",
+            "NumberOfModules": 5,
+            "M1":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M2":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M3":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M4":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+            "M5":{
+              "title": "title",
+              "syllabus": "syllabus",
+              "url": "pdf url",
+            },
+          },
+      },
+    },
+
+    "Civil":{
+      // "NumberOfSubjects": 5,
+      // "Subject":{
+      //       "SubjectName": "subject name",
+      //       "NumberOfModules": 5,
+      //       "M1":{
+      //         "title": "title",
+      //         "syllabus": "syllabus",
+      //         "url": "pdf url",
+      //       },
+      //       "M2":{
+      //         "title": "title",
+      //         "syllabus": "syllabus",
+      //         "url": "pdf url",
+      //       },
+      //       "M3":{
+      //         "title": "title",
+      //         "syllabus": "syllabus",
+      //         "url": "pdf url",
+      //       },
+      //       "M4":{
+      //         "title": "title",
+      //         "syllabus": "syllabus",
+      //         "url": "pdf url",
+      //       },
+      //       "M5":{
+      //         "title": "title",
+      //         "syllabus": "syllabus",
+      //         "url": "pdf url",
+      //       },
+      //   },
+    },
+
+    "Electrical":{},
+
+    "Mechanical":{},
+};
