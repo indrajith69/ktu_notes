@@ -1,766 +1,641 @@
 {
-  "ComputerScience": {
-    "S1": {
-      "NumberOfSubjects": 8,
-      "Subject1": {
-        "SubjectName": "Engineering Chemistry",
-        "SubjectCode": "CYT100",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "Electrochemistry and Corrosion",
-          "syllabus":
-              "Introduction - Differences between electrolytic and electrochemical cells - Daniel cell - redox reactions - cell representation. Different types of electrodes (brief) - Reference electrodes - SHE - Calomel electrode - Glass Electrode - Construction and Working. Single electrode potential - definition - Helmholtz electrical double layer -Determination of E 0 using calomel electrode.Determination of pH using a glass electrode.Electrochemical series and its applications. Free energy and EMF - Nernst Equation - Derivation - single electrode and cell (Numericals) -Application - Variation of emf with temperature. Potentiometric titration - Introduction -Redox titration only.Lithium-ion cell - construction and working.Conductivity- Measurement of conductivity of a solution (Numericals). \n\nCorrosion-Electrochemicalcorrosion – mechanism. Galvanic series- cathodic protection - electroless plating –Copper and Nickel plating.",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "Spectroscopic Techniques and Applications",
-          "syllabus":
-              "Introduction- Types of the spectrum - electromagnetic spectrum - molecular energy levels - Beer Lambert’s law (Numericals). UV-Visible Spectroscopy – Principle - Types of electronic transition Energy level diagram of ethane, butadiene, benzene and hexatriene. Instrumentation of UV-Visible spectrometer and applications.IR-Spectroscopy – Principle - Number of vibrational modes - Vibrational energy states of a diatomic molecule and -Determination of force constant of diatomic 1 molecule (Numericals) –Applications. H NMR spectroscopy – Principle - Relation between field strength and frequency - chemical shift - spin-spin splitting (spectral problems ) - coupling constant (definition) - applications of NMR- including MRI (brief).",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "Instrumental Methods and Nanomaterials",
-          "syllabus":
-              "Thermal analysis –TGA- Principle, instrumentation (block diagram) and applications – TGA of CaC 2 O 4 . H 2 O and polymers. DTA-Principle, instrumentation (block diagram) and applications - DTA of CaC 2 O 4 . H 2 O. Chromatographic methods - Basic principles and applications of column and TLC- Retention factor. GC and HPLC-Principle, instrumentation (block diagram) - retention time and applications. Nanomaterials - Definition - Classification - Chemical methods of preparation - Hydrolysis and Reduction - Applications of nanomaterials - Surface characterisation -SEM – Principle and instrumentation (block diagram).",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "Stereochemistry and Polymer Chemistry",
-          "syllabus":
-              "Isomerism-Structural, chain, position, functional, tautomerism and matamerism - Definition with examples - Representation of 3D structures-Newman, Sawhorse, Wedge and Fischer projection of substituted methane and ethane. Stereoisomerism - Geometrical isomerism in double bonds and cycloalkanes (cis-trans and E-Z notations). R-S Notation – Rules and examples - Optical isomerism, Chirality, Enantiomers and Diastereoisomers-Definition with examples.Conformational analysis of ethane, butane, cyclohexane, mono and di methyl substituted cyclohexane.\n\nCopolymers - Definition - Types - Random, Alternating, Block and Graft copolymers - ABS - preparation, properties and applications.Kevlar-preparation, properties and applications.Conducting polymers - Doping -Polyaniline and Polypyrrole - preparation properties and applications. OLED - Principle, construction and advantages.",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "Water Chemistry and Sewage Water Treatment",
-          "syllabus":
-              "Water characteristics - Hardness - Types of hardness- Temporary and Permanent - Disadvantages of hard water -Units of hardness- ppm and mg/L -Degree of hardness (Numericals) - Estimationhardness-EDTA method (Numericals). Water softening methods-Ion exchange process-Principle procedure and advantages. Reverse osmosis – principle, process and advantages. Municipal waste treatment (brief) - Disinfection methods - chlorination, ozone and UV irradiation. \n\nDissolved oxygen (DO) -Estimation (only brief procedure-Winkler’s method), BOD and COD- definition, estimation (only brief procedure) and significance (Numericals). Sewage water treatment - Primary, Secondary and Tertiary - Flow diagram -Trickling filter and UASB process.",
-          "url":
-              "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-        },
+   "ComputerScience": {
+      "S1": {
+         "NumberOfSubjects": 8,
+         "Subject1": [
+            {
+               "SubjectName": "Engineering Chemistry",
+               "SubjectCode": "CYT100",
+               "NumberOfModules": 5,
+               "M1": {
+                  "title": "Electrochemistry and Corrosion",
+                  "syllabus": "Introduction - Differences between electrolytic and electrochemical cells - Daniel cell - redox reactions - cell representation. Different types of electrodes (brief) - Reference electrodes - SHE - Calomel electrode - Glass Electrode - Construction and Working. Single electrode potential - definition - Helmholtz electrical double layer -Determination of E 0 using calomel electrode.Determination of pH using a glass electrode.Electrochemical series and its applications. Free energy and EMF - Nernst Equation - Derivation - single electrode and cell (Numericals) -Application - Variation of emf with temperature. Potentiometric titration - Introduction -Redox titration only.Lithium-ion cell - construction and working.Conductivity- Measurement of conductivity of a solution (Numericals). \n\nCorrosion-Electrochemicalcorrosion – mechanism. Galvanic series- cathodic protection - electroless plating –Copper and Nickel plating.",
+                  "url": "pdf url"
+               },
+               "M2": {
+                  "title": "Spectroscopic Techniques and Applications",
+                  "syllabus": "Introduction- Types of the spectrum - electromagnetic spectrum - molecular energy levels - Beer Lambert’s law (Numericals). UV-Visible Spectroscopy – Principle - Types of electronic transition Energy level diagram of ethane, butadiene, benzene and hexatriene. Instrumentation of UV-Visible spectrometer and applications.IR-Spectroscopy – Principle - Number of vibrational modes - Vibrational energy states of a diatomic molecule and -Determination of force constant of diatomic 1 molecule (Numericals) –Applications. H NMR spectroscopy – Principle - Relation between field strength and frequency - chemical shift - spin-spin splitting (spectral problems ) - coupling constant (definition) - applications of NMR- including MRI (brief).",
+                  "url": "pdf url"
+               },
+               "M3": {
+                  "title": "Instrumental Methods and Nanomaterials",
+                  "syllabus": "Thermal analysis –TGA- Principle, instrumentation (block diagram) and applications – TGA of CaC 2 O 4 . H 2 O and polymers. DTA-Principle, instrumentation (block diagram) and applications - DTA of CaC 2 O 4 . H 2 O. Chromatographic methods - Basic principles and applications of column and TLC- Retention factor. GC and HPLC-Principle, instrumentation (block diagram) - retention time and applications. Nanomaterials - Definition - Classification - Chemical methods of preparation - Hydrolysis and Reduction - Applications of nanomaterials - Surface characterisation -SEM – Principle and instrumentation (block diagram).",
+                  "url": "pdf url"
+               },
+               "M4": {
+                  "title": "Stereochemistry and Polymer Chemistry",
+                  "syllabus": "Isomerism-Structural, chain, position, functional, tautomerism and matamerism - Definition with examples - Representation of 3D structures-Newman, Sawhorse, Wedge and Fischer projection of substituted methane and ethane. Stereoisomerism - Geometrical isomerism in double bonds and cycloalkanes (cis-trans and E-Z notations). R-S Notation – Rules and examples - Optical isomerism, Chirality, Enantiomers and Diastereoisomers-Definition with examples.Conformational analysis of ethane, butane, cyclohexane, mono and di methyl substituted cyclohexane.\n\nCopolymers - Definition - Types - Random, Alternating, Block and Graft copolymers - ABS - preparation, properties and applications.Kevlar-preparation, properties and applications.Conducting polymers - Doping -Polyaniline and Polypyrrole - preparation properties and applications. OLED - Principle, construction and advantages.",
+                  "url": "pdf url"
+               },
+               "M5": {
+                  "title": "Water Chemistry and Sewage Water Treatment",
+                  "syllabus": "Water characteristics - Hardness - Types of hardness- Temporary and Permanent - Disadvantages of hard water -Units of hardness- ppm and mg/L -Degree of hardness (Numericals) - Estimationhardness-EDTA method (Numericals). Water softening methods-Ion exchange process-Principle procedure and advantages. Reverse osmosis – principle, process and advantages. Municipal waste treatment (brief) - Disinfection methods - chlorination, ozone and UV irradiation. \n\nDissolved oxygen (DO) -Estimation (only brief procedure-Winkler’s method), BOD and COD- definition, estimation (only brief procedure) and significance (Numericals). Sewage water treatment - Primary, Secondary and Tertiary - Flow diagram -Trickling filter and UASB process.",
+                  "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+               }
+            },
+            {
+               "SubjectName": "Data Structures",
+               "SubjectCode": "",
+               "NumberOfModules": 5,
+               "M1": {
+                  "title": "Basic Concepts of Data Structures",
+                  "syllabus": "System Life Cycle, Algorithms, Performance Analysis, Space Complexity, Time Complexity, Asymptotic Notation, Complexity Calculation of Simple Algorithms",
+                  "url": "pdf url"
+               },
+               "M2": {
+                  "title": "Arrays and Searching",
+                  "syllabus": "Polynomial representation using Arrays, Sparse matrix, Stacks, Queues-Circular Queues, Priority Queues, Double Ended Queues, Evaluation of Expressions\n\nLinear Search and Binary Search",
+                  "url": "pdf url"
+               },
+               "M3": {
+                  "title": "Linked List and Memory Management",
+                  "syllabus": "Self Referential Structures, Dynamic Memory Allocation, Singly Linked List-Operations on Linked List. Doubly Linked List, Circular Linked List, Stacks and Queues using Linked List, Polynomial representation using Linked List\n\nMemory allocation and de-allocation-First-fit, Best-fit and Worst-fit allocation schemes",
+                  "url": "pdf url"
+               },
+               "M4": {
+                  "title": "Trees and Graphs",
+                  "syllabus": "Trees, Binary Trees-Tree Operations, Binary Tree Representation, Tree Traversals, Binary Search Trees- Binary Search Tree Operations\n\nGraphs, Representation of Graphs, Depth First Search and Breadth First Search on Graphs, Applications of Graphs",
+                  "url": "pdf url"
+               },
+               "M5": {
+                  "title": "Sorting and Hashing",
+                  "syllabus": "Sorting Techniques – Selection Sort, Insertion Sort, Quick Sort, Merge Sort and Heap Sort\n\nHashing- Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions – Mid square, Division, Folding, Digit Analysis",
+                  "url": "pdf url"
+               }
+            }
+         ],
+         "Subject2": {
+            "SubjectName": "Basic Civil",
+            "SubjectCode": "EST120",
+            "NumberOfModules": 3,
+            "M1": {
+               "title": "General Introduction to Civil Engineering",
+               "syllabus": "General Introduction to Civil Engineering: Relevance of Civil Engineering in the overall infrastructural development of the country. Responsibility of an engineer in ensuring the safety of built environment. Brief introduction to major disciplines of Civil Engineering like Transportation Engineering, Structural Engineering, Geo-technical Engineering, Water Resources Engineering and Environmental Engineering.\n\nIntroduction to buildings: Types of buildings, selection of site for buildings, components of a residential building and their functions. Building rules and regulations: Relevance of NBC, KBR & CRZ norms (brief discussion only).\n\nBuilding area: Plinth area, built up area, floor area, carpet area and floor area ratio for a building as per KBR.",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "Surveying",
+               "syllabus": "Surveying: Importance, objectives and principles.\n\nConstruction materials, Conventional construction materials: types, properties and uses of building materials: bricks, stones, cement, sand and timber\n\nCement concrete: Constituent materials, properties and types. Steel: Steel sections and steel reinforcements, types and uses.\n\nModern construction materials:- Architectural glass, ceramics, Plastics, composite materials, thermal and acoustic insulating materials, decorative panels, waterproofing materials. Modern uses of gypsum, pre-fabricated building components (brief discussion only)",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "Building Construction",
+               "syllabus": "Building Construction: Foundations: Bearing capacity of soil (definition only), functions offoundations, types – shallow and deep (brief discussion only). Load bearing and framed structures (concept only).\n\nBrick masonry: - Header and stretcher bond, English bond & Flemish bond random rubble masonry. Roofs and floors: - Functions, types; flooring materials (brief discussion only).\n\nBasic infrastructure services: MEP, HVAC, elevators, escalators and ramps (Civil Engineering aspects only), fire safety for buildings.\n\nGreen buildings:- Materials, energy systems, water management and environment for green buildings. (brief discussion only). ",
+               "url": "pdf url"
+            }
+         },
+         "Subject3": {
+            "SubjectName": "BASIC MECHANICAL",
+            "SubjectCode": "EST120",
+            "NumberOfModules": 3,
+            "M1": {
+               "title": "Analysis of thermodynamic cycles",
+               "syllabus": "Carnot, Otto, Diesel cycles, Derivation of efficiency of these cycles, Problems to calculate heat added, heat rejected, net work and efficiency. IC Engines: CI, SI, 2- Stroke, 4-Stroke engines. Listing the parts of different types of IC Engines. Efficiencies of IC Engines(Definitions only), Air, Fuel, cooling and lubricating systems in SI and CI Engines, CRDI, MPFI. Concept of hybrid engines. ",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "Refrigeration",
+               "syllabus": " Unit of refrigeration, reversed Carnot cycle,COP, vapour compression cycle (only description and no problems); Definitions of dry, wet & dew point temperatures, specific humidity and relative humidity, Cooling and dehumidification, Layout of unit and central air conditioners. Description about working with sketches of: Reciprocating pump, Centrifugal pump, Pelton turbine, Francis turbine and Kaplan turbine. Overall efficiency, Problems on calculation of input and output power of pumps and turbines (No velocity triangles)\n\nDescription about working with sketches of: Belt and Chain drives, Gear and Gear trains, Single plate clutches.",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "Manufacturing Process",
+               "syllabus": "Manufacturing Process: Basic description of the manufacturing processes – Sand Casting, Forging, Rolling, Extrusion and their applications.\n\nMetal Joining Processes: List types of welding, Description with sketches of Arc Welding, Soldering and Brazing and their applications\n\nBasic Machining operations: Turning, Drilling, Milling and Grinding.\n\nDescription about working with block diagram of: Lathe, Drilling machine, Milling machine, CNC Machine. Principle of CAD/CAM, Rapid and Additive manufacturing. ",
+               "url": "pdf url"
+            }
+         },
+         "Subject4": {
+            "SubjectName": "BASIC ELECTRICAL",
+            "SubjectCode": "EST130",
+            "NumberOfModules": 3,
+            "M1": {
+               "title": "title",
+               "syllabus": "Elementary concepts of DC electric circuits: Basic Terminology including voltage, current, power, resistance, emf; Resistances in series and parallel; Current and Voltage Division Rules; Capacitors & Inductors: V-I relations and energy stored. Ohms Law and Kirchhoff's laws-Problems; Star-delta conversion (resistive networks only-derivation not required)-problems.\n\nAnalysis of DC electric circuits: Mesh current method - Matrix representation - Solution of network equations. Node voltage methods-matrix representation-solution of network equations by matrix methods. Numerical problems. ",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Magnetic Circuits: Basic Terminology: MMF, field strength, flux density, reluctance - comparison between electric and magnetic circuits- Series and parallel magnetic circuits with composite materials, numerical problems.\n\nElectromagnetic Induction: Faraday's laws, problems, Lenz's law- statically induced and dynamically induced emfs - Self-inductance and mutual inductance, coefficient of coupling\n\nAlternating Current fundamentals: Generation of alternating voltages-Representation of sinusoidal waveforms: frequency, period, Average, RMS values and form factor of waveforms-Numerical Problems.",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": " AC Circuits: Phasor representation of sinusoidal quantities. Trignometric, Rectangular, Polar and complex forms. Analysis of simple AC circuits: Purely resistive, inductive & capacitive circuits; Inductive and capacitive reactance, concept of impedance. Average Power Power factor. Analysis of RL, RC and RLC series circuits-active, reactive and apparent power. Simple numerical problems.\n\nThree phase AC systems: Generation of three phase voltages; advantages of three phase systems, star and delta connections (balanced only), relation between line and phase voltages, line and phase currents- Numerical problems",
+               "url": "pdf url"
+            }
+         },
+         "Subject5": {
+            "SubjectName": "BASIC ELECTRONICS",
+            "SubjectCode": "EST130",
+            "NumberOfModules": 3,
+            "M1": {
+               "title": "title",
+               "syllabus": "Introduction to Semiconductor devices: Evolution of electronics – Vacuum tubes to nano electronics. Resistors, Capacitors and Inductors (constructional features not required): types, specifications. Standard values, color coding. PN Junction diode: Principle of operation, V-I characteristics, principle of avalanche breakdown. Bipolar Junction Transistors: PNP and NPN structures, Principle of operation, relation between current gains in CE, CB and CC, input and output characteristics of common emitter configuration",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Basic electronic circuits and instrumentation: Rectifiers and power supplies: Block diagram description of a dc power supply, Working of a full wave bridge rectifier, capacitor filter (no analysis), working of simple zener voltage regulator. Amplifiers: Block diagram of Public Address system, Circuit diagram and working of common emitter (RC coupled) amplifier with its frequency response, Concept of voltage divider biasing. Electronic Instrumentation: Block diagram of an electronic instrumentation system. ",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Introduction to Communication Systems: Evolution of communication systems – Telegraphy to 5G. Radio communication: principle of AM & FM, frequency bands used for various communication systems, block diagram of super heterodyne receiver, Principle of antenna – radiation from accelerated charge. Mobile communication: basic principles of cellular communications, principle and block diagram of GSM. ",
+               "url": "pdf url"
+            }
+         },
+         "Subject6": {
+            "SubjectName": "PROGRAMING IN C",
+            "SubjectCode": "EST102",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "Basics of Computer Architecture: processor, Memory, Input& Output devices Application Software & System software: Compilers, interpreters, High level and low level languages Introduction to structured approach to programming, Flow chart Algorithms, Pseudo code (bubble sort, linear search - algorithms and pseudocode)",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Basic structure of C program: Character set, Tokens, Identifiers in C, Variables and Data Types , Constants, Console IO Operations, printf and scanf Operators and Expressions: Expressions and Arithmetic Operators, Relational and Logical Operators, Conditional operator, size of operator, Assignment operators and Bitwise Operators. Operators Precedence\n\nControl Flow Statements: If Statement, Switch Statement, Unconditional Branching using goto statement, While Loop, Do While Loop, For Loop, Break and Continue statements.(Simple programs covering control flow) ",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Arrays Declaration and Initialization, 1-Dimensional Array, 2-Dimensional Array String processing: In built String handling functions (strlen, strcpy, strcat and strcmp, puts, gets) Linear search program, bubble sort program, simple programs covering arrays and strings",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Introduction to modular programming, writing functions, formal parameters, actual parameters Pass by Value, Recursion, Arrays as Function Parameters structure, union, Storage Classes, Scope and life time of variables, simple programs using functions",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": " Basics of Pointer: declaring pointers, accessing data though pointers, NULL pointer,array access using pointers, pass by reference effect\n\nFile Operations: open, close, read, write, append\n\nSequential access and random access to files: In built file handlingfunctions (rewind() ,fseek(), ftell(), feof(), fread(), fwrite()), simple programs covering pointers and files",
+               "url": "pdf url"
+            }
+         },
+         "Subject7": {
+            "SubjectName": "ENGINEERING GRAPHICS",
+            "SubjectCode": "EST110",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "Introduction : Relevance of technical drawing in engineering field. Types of lines, Dimensioning, BIS code of practice for technical drawing.\n\nOrthographic projection of Points and Lines: Projection of points in different quadrants, Projection of straight lines inclined to one plane and inclined to both planes. Trace of line. Inclination of lines with reference planes True length of line inclined to both the reference planes. ",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Orthographic projection of Solids: Projection of Simple solids such as Triangular, Rectangle, Square, Pentagonal and Hexagonal Prisms, Pyramids, Cone and Cylinder. Projection of solids in simple position including profile view. Projection of solids with axis inclined to one of the reference planes and with axis inclined to both reference planes. ",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": " Sections of Solids: Sections of Prisms, Pyramids, Cone, Cylinder with axis in vertical position and cut by different section planes. True shape of the sections. Also locating the section plane when the true shape of the section is given.\n\nDevelopment of Surfaces: Development of surfaces of the above solids and solids cut by different section planes. Also finding the shortest distance between two points on the surface. ",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Isometric Projection: Isometric View and Projections of Prisms, Pyramids, Cone , Cylinder, Frustum of Pyramid, Frustum of Cone, Sphere, Hemisphere and their combinations. ",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "Perspective Projection: Perspective projection of Prisms and Pyramids with axis perpendicular to the ground plane, axis perpendicular to picture plane.\n\nConversion of Pictorial Views: Conversion of pictorial views into orthographic views. ",
+               "url": "pdf url"
+            }
+         },
+         "Subject8": {
+            "SubjectName": "ENGINEERING MECHANICS",
+            "SubjectCode": "EST100",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "Introduction to Engineering Mechanics-statics-basic principles of statics-Parallelogram law, equilibrium law, principles of superposition and transmissibility, law of action and reaction(review) free body diagrams.\n\nConcurrent coplanar forces-composition and resolution of forces-resultant and equilibrium equations – methods of projections – methods of moments – Varignon’s Theorem of moments. ",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Friction – sliding friction - Coulomb’s laws of friction – analysis of single bodies –wedges, ladderanalysis of connected bodies .\n\nParallel coplanar forces – couple - resultant of parallel forces – centre of parallel forces – equilibrium of parallel forces – Simple beam subject to concentrated vertical loads. General coplanar force system - resultant and equilibrium equations. ",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Centroid of composite areas- – moment of inertia-parallel axis and perpendicular axis theorems. Polar moment of inertia,radius of gyration,mass moment of inertia-ring,cylinder and disc. Theorem of Pappus Guldinus(demonstration only) Forces in space - vectorial representation of forces, moments and couples –resultant and equilibrium equations – concurrent forces in space (simple problems only) ",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Dynamics – rectilinear translation - equations of kinematics(review)\n\nkinetics – equation of motion – D’Alembert’s principle. – motion on horizontal and inclined surfaces, motion of connected bodies. Impulse momentum equation and work energy equation (concepts only).\n\nCurvilinear translation - equations of kinematics –projectile motion(review), kinetics – equation of motion. Moment of momentum and work energy equation (concepts only). ",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "Rotation – kinematics of rotation- equation of motion for a rigid body rotating about a fixed axis – rotation under a constant moment.\n\nPlane motion of rigid body – instantaneous centre of rotation (concept only).\n\nSimple harmonic motion – free vibration –degree of freedom- undamped free vibration of spring mass system-effect of damping(concept only) ",
+               "url": "pdf url"
+            }
+         },
+         "Subject9": {
+            "SubjectName": "Data Structures",
+            "SubjectCode": "",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "Basic Concepts of Data Structures",
+               "syllabus": "System Life Cycle, Algorithms, Performance Analysis, Space Complexity, Time Complexity, Asymptotic Notation, Complexity Calculation of Simple Algorithms",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "Arrays and Searching",
+               "syllabus": "Polynomial representation using Arrays, Sparse matrix, Stacks, Queues-Circular Queues, Priority Queues, Double Ended Queues, Evaluation of Expressions\n\nLinear Search and Binary Search",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "Linked List and Memory Management",
+               "syllabus": "Self Referential Structures, Dynamic Memory Allocation, Singly Linked List-Operations on Linked List. Doubly Linked List, Circular Linked List, Stacks and Queues using Linked List, Polynomial representation using Linked List\n\nMemory allocation and de-allocation-First-fit, Best-fit and Worst-fit allocation schemes",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "Trees and Graphs",
+               "syllabus": "Trees, Binary Trees-Tree Operations, Binary Tree Representation, Tree Traversals, Binary Search Trees- Binary Search Tree Operations\n\nGraphs, Representation of Graphs, Depth First Search and Breadth First Search on Graphs, Applications of Graphs",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "Sorting and Hashing",
+               "syllabus": "Sorting Techniques – Selection Sort, Insertion Sort, Quick Sort, Merge Sort and Heap Sort\n\nHashing- Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions – Mid square, Division, Folding, Digit Analysis",
+               "url": "pdf url"
+            }
+         }
       },
-      "Subject2": {
-        "SubjectName": "Basic Civil",
-        "SubjectCode": "EST120",
-        "NumberOfModules": 3,
-        "M1": {
-          "title": "General Introduction to Civil Engineering",
-          "syllabus":
-              "General Introduction to Civil Engineering: Relevance of Civil Engineering in the overall infrastructural development of the country. Responsibility of an engineer in ensuring the safety of built environment. Brief introduction to major disciplines of Civil Engineering like Transportation Engineering, Structural Engineering, Geo-technical Engineering, Water Resources Engineering and Environmental Engineering.\n\nIntroduction to buildings: Types of buildings, selection of site for buildings, components of a residential building and their functions. Building rules and regulations: Relevance of NBC, KBR & CRZ norms (brief discussion only).\n\nBuilding area: Plinth area, built up area, floor area, carpet area and floor area ratio for a building as per KBR.",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "Surveying",
-          "syllabus":
-              "Surveying: Importance, objectives and principles.\n\nConstruction materials, Conventional construction materials: types, properties and uses of building materials: bricks, stones, cement, sand and timber\n\nCement concrete: Constituent materials, properties and types. Steel: Steel sections and steel reinforcements, types and uses.\n\nModern construction materials:- Architectural glass, ceramics, Plastics, composite materials, thermal and acoustic insulating materials, decorative panels, waterproofing materials. Modern uses of gypsum, pre-fabricated building components (brief discussion only)",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "Building Construction",
-          "syllabus":
-              "Building Construction: Foundations: Bearing capacity of soil (definition only), functions offoundations, types – shallow and deep (brief discussion only). Load bearing and framed structures (concept only).\n\nBrick masonry: - Header and stretcher bond, English bond & Flemish bond random rubble masonry. Roofs and floors: - Functions, types; flooring materials (brief discussion only).\n\nBasic infrastructure services: MEP, HVAC, elevators, escalators and ramps (Civil Engineering aspects only), fire safety for buildings.\n\nGreen buildings:- Materials, energy systems, water management and environment for green buildings. (brief discussion only). ",
-          "url": "pdf url",
-        },
+      "S3": {
+         "NumberOfSubjects": 6,
+         "Subject1": {
+            "SubjectName": "Data Structures",
+            "SubjectCode": "CST201",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "Basic Concepts of Data Structures",
+               "syllabus": "System Life Cycle, Algorithms, Performance Analysis, Space Complexity, Time Complexity, Asymptotic Notation, Complexity Calculation of Simple Algorithms",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "Arrays and Searching",
+               "syllabus": "Polynomial representation using Arrays, Sparse matrix, Stacks, Queues-Circular Queues, Priority Queues, Double Ended Queues, Evaluation of Expressions\n\nLinear Search and Binary Search",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "Linked List and Memory Management",
+               "syllabus": "Self Referential Structures, Dynamic Memory Allocation, Singly Linked List-Operations on Linked List. Doubly Linked List, Circular Linked List, Stacks and Queues using Linked List, Polynomial representation using Linked List\n\nMemory allocation and de-allocation-First-fit, Best-fit and Worst-fit allocation schemes",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "Trees and Graphs",
+               "syllabus": "Trees, Binary Trees-Tree Operations, Binary Tree Representation, Tree Traversals, Binary Search Trees- Binary Search Tree Operations\n\nGraphs, Representation of Graphs, Depth First Search and Breadth First Search on Graphs, Applications of Graphs",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "Sorting and Hashing",
+               "syllabus": "Sorting Techniques – Selection Sort, Insertion Sort, Quick Sort, Merge Sort and Heap Sort\n\nHashing- Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions – Mid square, Division, Folding, Digit Analysis",
+               "url": "pdf url"
+            }
+         },
+         "Subject2": {
+            "SubjectName": "Logic System Design",
+            "SubjectCode": "CST203",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "Number systems, Operations & Codes: Decimal, Binary, Octal and Hexadecimal Number Systems- Number Base Conversions. Addition, Subtraction, Multiplication and Division of binary numbers. Representation of negative numbers- Complements, Subtraction with complements. Addition and subtraction of BCD, Octal and Hexadecimal numbers. Binary codes- Decimal codes, Error detection codes, Reflected code, Character coding schemes – ASCII, EBCDIC.",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Boolean Algebra: Postulates of Boolean Algebra. Basic theorems and Properties of Boolean Algebra. Boolean Functions - Canonical and Standard forms. Simplification of Boolean Functions- Using Karnaugh- Map Method (up to five variables), Don’t care conditions, product of sums simplification, Tabulation Method. Digital Logic Gates- Implementation of Boolean functions using basic and universal gates.",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Combinational Logic Circuits: Design Procedure & Implementation of combinational logic circuits- Binary adders and subtractors, Binary Parallel adder, Carry look-ahead adder, BCD adder, Code converter, Magnitude Comparator, Decoder, Demultiplexer, Encoder, Multiplexer, Parity generator/ Checker.",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Sequential logic circuits: Flip-flops- SR, JK, T and D. Triggering of flip-flops- Master-slave flip-flops, Edge- triggered flip-flops. Excitation table and characteristic equation. Registers- register with the parallel load. Counter design: Asynchronous counters- Binary and BCD counters, timing sequences and state diagrams. Synchronous counters- Binary Up-down counter, BCD counter.",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "Shift registers: Shift registers – Serial In Serial Out, Serial In Parallel Out, Bidirectional Shift Register with Parallel load. Ring counter. Johnson counter- timing sequences and state diagrams\n\nArithmetic algorithms: Algorithms for addition and subtraction of binary numbers in signed magnitude and 2’s complement representations. Algorithm for addition and subtraction of BCD numbers. Representation of floating-point numbers, Algorithm for addition and subtraction of floating-point numbers.",
+               "url": "pdf url"
+            }
+         },
+         "Subject3": {
+            "SubjectName": "Object Oriented Programming Using Java",
+            "SubjectCode": "CST205",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "Introduction: Approaches to Software Design - Functional Oriented Design, Object Oriented Design, Case Study of Automated Fire Alarm System. Object Modeling Using Unified Modeling Language (UML) – Basic Object Oriented concepts, UML diagrams, Use case model, Class diagram, Interaction diagram, Activity diagram, Statechart diagram. \n\nIntroduction to Java - Java programming Environment and Runtime Environment, Development Platforms -Standard, Enterprise. Java Virtual Machine (JVM), Java compiler, Bytecode, Java applet, Java Buzzwords, Java program structure, Comments, Garbage Collection, Lexical Issues.",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Core Java Fundamentals: Primitive Data types - Integers, Floating-Point Types, Characters, Boolean. Literals, Type Conversion and Casting, Variables, Arrays, Strings, Vector class. \n\nOperators - Arithmetic Operators, Bitwise Operators, Relational Operators, Boolean Logical Operators, Assignment Operator, Conditional (Ternary) Operator, Operator Precedence. Control Statements - Selection Statements, Iteration Statements and Jump Statements. \n\nObject-Oriented Programming in Java - Class Fundamentals, Declaring Objects, Object Reference, Introduction to Methods, Constructors, this Keyword, Method Overloading, Using Objects as Parameters, Returning Objects, Recursion, Access Control, Static Members, Final Variables, Inner Classes, Command Line Arguments, Variable Length Arguments. \n\nInheritance - Super Class, Sub Class, The Keyword super, protected Members, Calling Order of Constructors, Method Overriding, the Object class, Abstract Classes and Methods, using final with Inheritance.",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "More features of Java: Packages and Interfaces - Defining Package, CLASSPATH, Access Protection, Importing Packages, Interfaces.\n\nException Handling - Checked Exceptions, Unchecked Exceptions, try Block and catch Clause, Multiple catch Clauses, Nested try Statements, throw, throws and finally. Input/Output - I/O Basics, Reading Console Input, Writing Console Output, PrintWriter Class, Object Streams and Serialization, Working with Files.",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Advanced features of Java: Java Library - String Handling – String Constructors, String Length, Special String Operations - Character Extraction, String Comparison, Searching Strings, Modifying Strings, using valueOf(), Comparison of StringBuffer and String. \n\nCollections framework - Collections overview, Collections Interfaces- Collection Interface, List Interface. Collections Class – ArrayList class. Accessing a Collection via an Iterator. Event handling - Event Handling Mechanisms, Delegation Event Model, Event Classes, Sources of Events, Event Listener Interfaces, Using the Delegation Model. \n\nMultithreaded Programming - The Java Thread Model, The Main Thread, Creating Thread, Creating Multiple Threads, Synchronization, Suspending, Resuming and Stopping Threads.",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "Graphical User Interface and Database support of Java: Swings fundamentals - Swing Key Features, Model View Controller (MVC), Swing Controls, Components and Containers, Swing Packages, Event Handling in Swings, Swing Layout Managers, Exploring Swings –JFrame, JLabel, The Swing Buttons, JTextField. Java DataBase Connectivity (JDBC) - JDBC overview, Creating and Executing Queries – create a table, delete, insert, select.  ",
+               "url": "pdf url"
+            }
+         },
+         "Subject4": {
+            "SubjectName": "Sustainable Engineering",
+            "SubjectCode": "MNC202",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "Sustainability: Introduction, concept, the evolution of the concept; Social, environmental, and economic sustainability concepts; Sustainable development, Nexus between Technology and Sustainable development; Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), Clean Development Mechanism (CDM).",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Environmental Pollution: Air Pollution and its effects, Water pollution and its sources, Zero waste concept and 3 R concepts in solid waste management; Greenhouse effect, Global warming, Climate change, Ozone layer depletion, Carbon credits, carbon trading and carbon footprint, legal provisions for environmental protection.",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Environmental management standards: ISO 14001:2015 framework and benefits, Scope and goal of Life Cycle Analysis(LCA), Circular economy, Bio-mimicking, Environment Impact Assessment (EIA), Industrial ecology and industrial symbiosis.",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Resources and their utilisation: Basic concepts of Conventional and non-conventional energy, General idea about solar energy, Fuel cells, Wind energy, Small hydro plants, bio-fuels, Energy derived from oceans and Geothermal energy.",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "Sustainability practices: Basic concept of sustainable habitat, Methods for increasing energy efficiency in buildings, Green Engineering, Sustainable Urbanisation, Sustainable cities, Sustainable transport.  ",
+               "url": "pdf url"
+            }
+         },
+         "Subject5": {
+            "SubjectName": "Design Engineering",
+            "SubjectCode": "EST200",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "Design Process: Introduction to Design and Engineering Design, Defining a Design\n\nProcess: Detailing Customer Requirements, Setting Design Objectives, Identifying Constraints, Establishing Functions, Generating Design Alternatives and Choosing a Design.",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Design Thinking Approach: Introduction to Design Thinking, Iterative Design\n\nThinking Process Stages: Empathize, Define, Ideate, Prototype and Test. Design Thinking as Divergent-Convergent Questioning. Design Thinking in a Team Environment.",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Design Communication (Languages of Engineering Design): Communicating Designs Graphically, Communicating Designs Orally and in Writing. Mathematical Modeling In Design, Prototyping and Proofing the Design.",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "syllabus",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "syllabus",
+               "url": "pdf url"
+            }
+         }
       },
-      "Subject3": {
-        "SubjectName": "BASIC MECHANICAL",
-        "SubjectCode": "EST120",
-        "NumberOfModules": 3,
-        "M1": {
-          "title": "Analysis of thermodynamic cycles",
-          "syllabus":
-              "Carnot, Otto, Diesel cycles, Derivation of efficiency of these cycles, Problems to calculate heat added, heat rejected, net work and efficiency. IC Engines: CI, SI, 2- Stroke, 4-Stroke engines. Listing the parts of different types of IC Engines. Efficiencies of IC Engines(Definitions only), Air, Fuel, cooling and lubricating systems in SI and CI Engines, CRDI, MPFI. Concept of hybrid engines. ",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "Refrigeration",
-          "syllabus":
-              " Unit of refrigeration, reversed Carnot cycle,COP, vapour compression cycle (only description and no problems); Definitions of dry, wet & dew point temperatures, specific humidity and relative humidity, Cooling and dehumidification, Layout of unit and central air conditioners. Description about working with sketches of: Reciprocating pump, Centrifugal pump, Pelton turbine, Francis turbine and Kaplan turbine. Overall efficiency, Problems on calculation of input and output power of pumps and turbines (No velocity triangles)\n\nDescription about working with sketches of: Belt and Chain drives, Gear and Gear trains, Single plate clutches.",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "Manufacturing Process",
-          "syllabus":
-              "Manufacturing Process: Basic description of the manufacturing processes – Sand Casting, Forging, Rolling, Extrusion and their applications.\n\nMetal Joining Processes: List types of welding, Description with sketches of Arc Welding, Soldering and Brazing and their applications\n\nBasic Machining operations: Turning, Drilling, Milling and Grinding.\n\nDescription about working with block diagram of: Lathe, Drilling machine, Milling machine, CNC Machine. Principle of CAD/CAM, Rapid and Additive manufacturing. ",
-          "url": "pdf url",
-        },
+      "S5": {
+         "NumberOfSubjects": 6,
+         "Subject1": {
+            "SubjectName": "subject name",
+            "SubjectCode": "CST303",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "Introduction – Uses of computer networks, Network hardware, Network software. \n\nReference models – The OSI reference model, The TCP/IP reference model, Comparison of OSI and TCP/IP reference models.\n\nPhysical Layer – Modes of communication, Physical topologies, Signal encoding, Repeaters and hub, Transmission media overview.\n\nPerformance indicators – Bandwidth, Throughput, Latency, Queuing time, Bandwidth–Delay product.Module",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Datalink layer - Data link layer design issues, Error detection and correction, Sliding window protocols, High-Level Data Link Control(HDLC)protocol.\n\nMedium Access Control (MAC) sublayer –Channel allocation problem, Multiple access protocols, Ethernet, Wireless LANs - 802.11, Bridges & switches - Bridges from 802.x to 802.y, Repeaters, Hubs, Bridges, Switches,",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Network layer design issues. Routing algorithms - The Optimality Principle, Shortest path routing, Flooding, Distance Vector Routing, Link State Routing, Multicast routing, Routing for mobile hosts. Congestion control algorithms. \n\nQuality of Service (QoS) - requirements, Techniques for achieving good QoS.",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "IP protocol, IP addresses, Internet Control Message Protocol (ICMP), Address Resolution Protocol (ARP), Reverse Address Resolution Protocol (RARP), Bootstrap Protocol (BOOTP), Dynamic Host Configuration Protocol (DHCP). Open Shortest Path First(OSPF) Protocol, Border Gateway Protocol (BGP), Internet multicasting, IPv6, ICMPv6.",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "Transport service – Services provided to the upper layers, Transport service primitives. User Datagram Protocol (UDP).\n\nTransmission Control Protocol (TCP) – Overview of TCP, TCP segment header, Connection establishment &release, Connection management modelling, TCP retransmission policy, TCP congestion control.\n\nApplication Layer –File Transfer Protocol (FTP), Domain Name System (DNS), Electronic mail, Multipurpose Internet Mail Extension (MIME), Simple Network Management Protocol (SNMP), World Wide Web(WWW) – Architectural overview.",
+               "url": "pdf url"
+            }
+         },
+         "Subject2": {
+            "SubjectName": "subject name",
+            "SubjectCode": "CST305",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "System Software vs Application Software, Different System Software– Assembler, Linker, Loader, Macro Processor, Text Editor, Debugger, Device Driver, Compiler, Interpreter, Operating System (Basic Concepts only). SIC & SIC/XE Architecture, Addressing modes, SIC & SIC/XE Instruction set , Assembler Directives.",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "SIC/XE Programming, Basic Functions of Assembler, Assembler Output Format – Header, Text and End Records. Assembler Data Structures, Two-Pass Assembler Algorithm, Hand Assembly of SIC/XE Programs.",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Machine Dependent Assembler Features-Instruction Format and Addressing Modes, Program Relocation. Machine Independent Assembler Features –Literals, Symbol Defining Statements, Expressions, Program Blocks, Control Sections and Program Linking. Assembler Design Options- One Pass Assembler, Multi Pass Assembler. Implementation Example-MASM Assembler.",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Basic Loader Functions - Design of Absolute Loader, Simple Bootstrap Loader. Machine Dependent Loader Features- Relocation, Program Linking, Algorithm and Data Structures of Two-Pass Linking Loader. Machine Independent Loader Features -Automatic Library Search, Loader Options. Loader Design Options.",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "Macro Preprocessor - Macro Instruction Definition and Expansion, One pass Macro processor Algorithm and data structures, Machine Independent Macro Processor Features, Macro processor design options. Device drivers - Anatomy of a device driver, Character and block device drivers, General design of device drivers. Text Editors- Overview of Editing, User Interface, Editor Structure. Debuggers - Debugging Functions and Capabilities, Relationship with other parts of the system, Debugging Methods- By Induction, Deduction and Backtracking.",
+               "url": "pdf url"
+            }
+         },
+         "Subject3": {
+            "SubjectName": "subject name",
+            "SubjectCode": "CST307",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "8085 microprocessor (-Basic Architecture only). 8086 microprocessor – Architecture and signals, Physical Memory organization, Minimum and maximum mode of 8086 system and timings. Comparison of 8086 and 8088.Machine language Instruction format.",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Addressing Modes of 8086. Instruction set – data copy /transfer instructions, arithmetic instructions, logical instructions, string manipulation instructions, branch instructions, unconditional and conditional branch instructions, flag manipulation and processor control instructions. Assembler Directives and operators. Assembly Language Programming with 8086.",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "The stack structure of 8086, programming using stack- Interrupts - Types of Interrupts and Interrupt Service Routine- Handling Interrupts in 8086- Interrupt programming. - Programmable Interrupt Controller - 8259, Architecture (Just mention the control word, no need to memorize the control word)- Interfacing Memory with 8086",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Programmable Peripheral Input/output port 8255 - Architecture and modes of operation- Programmable interval timer 8254-Architecture and modes of operation- DMA controller 8257 Architecture (Just mention the control word, no need to memorize the control word of 8254 and 8257)",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "8051 Architecture- Register Organization- Memory and I/O addressing- Interrupts and Stack- 8051 Addressing Modes- Instruction Set- data transfer instructions, arithmetic instructions, logical instructions, Boolean instructions, control transfer instructions- Simple programs.",
+               "url": "pdf url"
+            }
+         },
+         "Subject4": {
+            "SubjectName": "subject name",
+            "SubjectCode": "",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "Introduction to Software Engineering - Professional software development, Software engineering ethics. Software process models - The waterfall model, Incremental development. Process activities - Software specification, Software design and implementation, Software validation, Software evolution. Coping with change - Prototyping, Incremental delivery, Boehm's Spiral Model. Agile software development - Agile methods, agile manifesto - values and principles. Agile development techniques, Agile Project Management. Case studies: An insulin pump control system. Medicare - a patient information system for mental health care.",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Requirement Analysis and Design - Functional and non-functional requirements, Requirements engineering processes. Requirements elicitation, Requirements validation, Requirements change, Traceability Matrix. Developing use cases, Software Requirements Specification Template, Personas, Scenarios, User stories, Feature identification. Design concepts - Design within the context of software engineering, Design Process, Design concepts, Design Model. Architectural Design - Software Architecture, Architectural Styles, Architectural considerations, Architectural Design Component level design - What is a component?, Designing Class-Based Components, Conducting Component level design, Component level design for web-apps. Template of a Design Document as per “IEEE Std 1016-2009 IEEE Standard for Information Technology Systems Design Software Design Descriptions”. Case study: The Ariane 5 launcher failure.",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Implementation and Testing - Object-oriented design using the UML, Design patterns, Implementation issues, Open-source development - Open-source licensing - GPL, LGPL, BSD. Review Techniques - Cost impact of Software Defects, Code review and statistical analysis. Informal Review, Formal Technical Reviews, Post-mortem evaluations. Software testing strategies - Unit Testing, Integration Testing, Validation testing, System testing, Debugging, White box testing, Path testing, Control Structure testing, Black box testing, Testing Documentation and Help facilities. Test automation, Test-driven development, Security testing. Overview of DevOps and Code Management - Code management, DevOps automation, Continuous Integration, Delivery, and Deployment (CI/CD/CD). Software Evolution - Evolution processes, Software maintenance.",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Software Project Management - Risk management, Managing people, Teamwork. Project Planning, Software pricing, Plan-driven development, Project scheduling, Agile planning. Estimation techniques, COCOMO cost modeling. Configuration management, Version management, System building, Change management, Release management, Agile software management - SCRUM framework. Kanban methodology and lean approaches.",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "Software Quality, Process Improvement and Technology trends Software Quality, Software Quality Dilemma, Achieving Software Quality Elements of Software Quality Assurance, SQA Tasks , Software measurement and metrics. Software Process Improvement(SPI), SPI Process CMMI process improvement framework, ISO 9001:2000 for Software. Cloud-based Software - Virtualisation and containers, Everything as a service(IaaS, PaaS), Software as a service. Microservices Architecture - Microservices, Microservices architecture, Microservice deployment.",
+               "url": "pdf url"
+            }
+         },
+         "Subject5": {
+            "SubjectName": "subject name",
+            "SubjectCode": "MCN301",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "composition, rocks, soils; Atmosphere-layers, ozone layer, greenhouse effect, weather, cyclones, atmospheric circulations, Indian Monsoon; hydrosphere- Oceans, inland water bodies; biosphere Definition and meaning of key terms in Disaster Risk Reduction and Management- disaster, hazard, exposure, vulnerability, risk, risk assessment, risk mapping, capacity, resilience, disaster risk reduction, disaster risk management, early warning systems, disaster preparedness, disaster prevention, disaster mitigation, disaster response, damage assessment, crisis counselling, needs assessment.  ",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Hazard types and hazard mapping - Vulnerability types and their assessment- physical, social, economic and environmental vulnerability.\n\nDisaster risk assessment - approaches, procedures",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Disaster risk management -Core elements and phases of Disaster Risk Management\n\nMeasures for Disaster Risk Reduction – prevention, mitigation, and preparedness.\n\nDisaster response- objectives, requirements; response planning; types of responses\n\nRelief; international relief organizations",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Participatory stakeholder engagement; Disaster communication- importance, methods, barriers, Crisis counselling\n\nCapacity Building: Concept – Structural and Non-structural Measures, Capacity Assessment, Strengthening Capacity for Reducing Risk",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "Common disaster types in India, Legislations in India on disaster management, National disaster management policy, Institutional arrangements for disaster management in India.\n\nThe Sendai Framework for Disaster Risk Reduction- targets, priorities for action, guiding principles",
+               "url": "pdf url"
+            }
+         },
+         "Subject6": {
+            "SubjectName": "subject name",
+            "SubjectCode": "CST301",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "Introduction to formal language theory– Alphabets, Strings, Concatenation of strings, Languages. \n\nRegular Languages - Deterministic Finite State Automata (DFA) (Proof of correctness of construction not required), Nondeterministic Finite State Automata (NFA), Equivalence of DFA and NFA, Regular Grammar (RG), Equivalence of RGs and DFA.",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "Regular Expression (RE), Equivalence of REs and DFA, Homomorphisms, Necessary conditions for regular languages, Closure Properties of Regular Languages, DFA state minimization (No proof required).",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "Myhill-Nerode Relations (MNR)- MNR for regular languages, Myhill-Nerode Theorem (MNT) (No proof required), Applications of MNT. \n\nContext-Free Grammar (CFG)- CFG representation of Context-Free Languages (proof of correctness is required), derivation trees and ambiguity, Normal forms for CFGs.",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "Nondeterministic Pushdown Automata (PDA), Deterministic Pushdown Automata (DPDA), Equivalence of PDAs and CFGs (Proof not required), Pumping Lemma for Context-Free Languages (Proof not required), Closure Properties of Context-Free Languages.",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "Context-Sensitive Languages - Context Sensitive Grammar (CSG), Linear Bounded Automata.\n\nTuring Machines - Standard Turing Machine, Robustness of Turing Machine, Universal Turing Machine, Halting Problem, Recursive and Recursively Enumerable Languages. Chomsky classification of formal languages.",
+               "url": "pdf url"
+            }
+         }
       },
-      "Subject4": {
-        "SubjectName": "BASIC ELECTRICAL",
-        "SubjectCode": "EST130",
-        "NumberOfModules": 3,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Elementary concepts of DC electric circuits: Basic Terminology including voltage, current, power, resistance, emf; Resistances in series and parallel; Current and Voltage Division Rules; Capacitors & Inductors: V-I relations and energy stored. Ohms Law and Kirchhoff's laws-Problems; Star-delta conversion (resistive networks only-derivation not required)-problems.\n\nAnalysis of DC electric circuits: Mesh current method - Matrix representation - Solution of network equations. Node voltage methods-matrix representation-solution of network equations by matrix methods. Numerical problems. ",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Magnetic Circuits: Basic Terminology: MMF, field strength, flux density, reluctance - comparison between electric and magnetic circuits- Series and parallel magnetic circuits with composite materials, numerical problems.\n\nElectromagnetic Induction: Faraday's laws, problems, Lenz's law- statically induced and dynamically induced emfs - Self-inductance and mutual inductance, coefficient of coupling\n\nAlternating Current fundamentals: Generation of alternating voltages-Representation of sinusoidal waveforms: frequency, period, Average, RMS values and form factor of waveforms-Numerical Problems.",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              " AC Circuits: Phasor representation of sinusoidal quantities. Trignometric, Rectangular, Polar and complex forms. Analysis of simple AC circuits: Purely resistive, inductive & capacitive circuits; Inductive and capacitive reactance, concept of impedance. Average Power Power factor. Analysis of RL, RC and RLC series circuits-active, reactive and apparent power. Simple numerical problems.\n\nThree phase AC systems: Generation of three phase voltages; advantages of three phase systems, star and delta connections (balanced only), relation between line and phase voltages, line and phase currents- Numerical problems",
-          "url": "pdf url",
-        },
-      },
-      "Subject5": {
-        "SubjectName": "BASIC ELECTRONICS",
-        "SubjectCode": "EST130",
-        "NumberOfModules": 3,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Introduction to Semiconductor devices: Evolution of electronics – Vacuum tubes to nano electronics. Resistors, Capacitors and Inductors (constructional features not required): types, specifications. Standard values, color coding. PN Junction diode: Principle of operation, V-I characteristics, principle of avalanche breakdown. Bipolar Junction Transistors: PNP and NPN structures, Principle of operation, relation between current gains in CE, CB and CC, input and output characteristics of common emitter configuration",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Basic electronic circuits and instrumentation: Rectifiers and power supplies: Block diagram description of a dc power supply, Working of a full wave bridge rectifier, capacitor filter (no analysis), working of simple zener voltage regulator. Amplifiers: Block diagram of Public Address system, Circuit diagram and working of common emitter (RC coupled) amplifier with its frequency response, Concept of voltage divider biasing. Electronic Instrumentation: Block diagram of an electronic instrumentation system. ",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Introduction to Communication Systems: Evolution of communication systems – Telegraphy to 5G. Radio communication: principle of AM & FM, frequency bands used for various communication systems, block diagram of super heterodyne receiver, Principle of antenna – radiation from accelerated charge. Mobile communication: basic principles of cellular communications, principle and block diagram of GSM. ",
-          "url": "pdf url",
-        },
-      },
-      "Subject6": {
-        "SubjectName": "PROGRAMING IN C",
-        "SubjectCode": "EST102",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Basics of Computer Architecture: processor, Memory, Input& Output devices Application Software & System software: Compilers, interpreters, High level and low level languages Introduction to structured approach to programming, Flow chart Algorithms, Pseudo code (bubble sort, linear search - algorithms and pseudocode)",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Basic structure of C program: Character set, Tokens, Identifiers in C, Variables and Data Types , Constants, Console IO Operations, printf and scanf Operators and Expressions: Expressions and Arithmetic Operators, Relational and Logical Operators, Conditional operator, size of operator, Assignment operators and Bitwise Operators. Operators Precedence\n\nControl Flow Statements: If Statement, Switch Statement, Unconditional Branching using goto statement, While Loop, Do While Loop, For Loop, Break and Continue statements.(Simple programs covering control flow) ",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Arrays Declaration and Initialization, 1-Dimensional Array, 2-Dimensional Array String processing: In built String handling functions (strlen, strcpy, strcat and strcmp, puts, gets) Linear search program, bubble sort program, simple programs covering arrays and strings",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Introduction to modular programming, writing functions, formal parameters, actual parameters Pass by Value, Recursion, Arrays as Function Parameters structure, union, Storage Classes, Scope and life time of variables, simple programs using functions",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              " Basics of Pointer: declaring pointers, accessing data though pointers, NULL pointer,array access using pointers, pass by reference effect\n\nFile Operations: open, close, read, write, append\n\nSequential access and random access to files: In built file handlingfunctions (rewind() ,fseek(), ftell(), feof(), fread(), fwrite()), simple programs covering pointers and files",
-          "url": "pdf url",
-        },
-      },
-      "Subject7": {
-        "SubjectName": "ENGINEERING GRAPHICS",
-        "SubjectCode": "EST110",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Introduction : Relevance of technical drawing in engineering field. Types of lines, Dimensioning, BIS code of practice for technical drawing.\n\nOrthographic projection of Points and Lines: Projection of points in different quadrants, Projection of straight lines inclined to one plane and inclined to both planes. Trace of line. Inclination of lines with reference planes True length of line inclined to both the reference planes. ",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Orthographic projection of Solids: Projection of Simple solids such as Triangular, Rectangle, Square, Pentagonal and Hexagonal Prisms, Pyramids, Cone and Cylinder. Projection of solids in simple position including profile view. Projection of solids with axis inclined to one of the reference planes and with axis inclined to both reference planes. ",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              " Sections of Solids: Sections of Prisms, Pyramids, Cone, Cylinder with axis in vertical position and cut by different section planes. True shape of the sections. Also locating the section plane when the true shape of the section is given.\n\nDevelopment of Surfaces: Development of surfaces of the above solids and solids cut by different section planes. Also finding the shortest distance between two points on the surface. ",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Isometric Projection: Isometric View and Projections of Prisms, Pyramids, Cone , Cylinder, Frustum of Pyramid, Frustum of Cone, Sphere, Hemisphere and their combinations. ",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "Perspective Projection: Perspective projection of Prisms and Pyramids with axis perpendicular to the ground plane, axis perpendicular to picture plane.\n\nConversion of Pictorial Views: Conversion of pictorial views into orthographic views. ",
-          "url": "pdf url",
-        },
-      },
-      "Subject8": {
-        "SubjectName": "ENGINEERING MECHANICS",
-        "SubjectCode": "EST100",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Introduction to Engineering Mechanics-statics-basic principles of statics-Parallelogram law, equilibrium law, principles of superposition and transmissibility, law of action and reaction(review) free body diagrams.\n\nConcurrent coplanar forces-composition and resolution of forces-resultant and equilibrium equations – methods of projections – methods of moments – Varignon’s Theorem of moments. ",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Friction – sliding friction - Coulomb’s laws of friction – analysis of single bodies –wedges, ladderanalysis of connected bodies .\n\nParallel coplanar forces – couple - resultant of parallel forces – centre of parallel forces – equilibrium of parallel forces – Simple beam subject to concentrated vertical loads. General coplanar force system - resultant and equilibrium equations. ",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Centroid of composite areas- – moment of inertia-parallel axis and perpendicular axis theorems. Polar moment of inertia,radius of gyration,mass moment of inertia-ring,cylinder and disc. Theorem of Pappus Guldinus(demonstration only) Forces in space - vectorial representation of forces, moments and couples –resultant and equilibrium equations – concurrent forces in space (simple problems only) ",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Dynamics – rectilinear translation - equations of kinematics(review)\n\nkinetics – equation of motion – D’Alembert’s principle. – motion on horizontal and inclined surfaces, motion of connected bodies. Impulse momentum equation and work energy equation (concepts only).\n\nCurvilinear translation - equations of kinematics –projectile motion(review), kinetics – equation of motion. Moment of momentum and work energy equation (concepts only). ",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "Rotation – kinematics of rotation- equation of motion for a rigid body rotating about a fixed axis – rotation under a constant moment.\n\nPlane motion of rigid body – instantaneous centre of rotation (concept only).\n\nSimple harmonic motion – free vibration –degree of freedom- undamped free vibration of spring mass system-effect of damping(concept only) ",
-          "url": "pdf url",
-        },
-      },
-      "Subject9": {
-        "SubjectName": "Data Structures",
-        "SubjectCode": "",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "Basic Concepts of Data Structures",
-          "syllabus":
-              "System Life Cycle, Algorithms, Performance Analysis, Space Complexity, Time Complexity, Asymptotic Notation, Complexity Calculation of Simple Algorithms",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "Arrays and Searching",
-          "syllabus":
-              "Polynomial representation using Arrays, Sparse matrix, Stacks, Queues-Circular Queues, Priority Queues, Double Ended Queues, Evaluation of Expressions\n\nLinear Search and Binary Search",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "Linked List and Memory Management",
-          "syllabus":
-              "Self Referential Structures, Dynamic Memory Allocation, Singly Linked List-Operations on Linked List. Doubly Linked List, Circular Linked List, Stacks and Queues using Linked List, Polynomial representation using Linked List\n\nMemory allocation and de-allocation-First-fit, Best-fit and Worst-fit allocation schemes",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "Trees and Graphs",
-          "syllabus":
-              "Trees, Binary Trees-Tree Operations, Binary Tree Representation, Tree Traversals, Binary Search Trees- Binary Search Tree Operations\n\nGraphs, Representation of Graphs, Depth First Search and Breadth First Search on Graphs, Applications of Graphs",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "Sorting and Hashing",
-          "syllabus":
-              "Sorting Techniques – Selection Sort, Insertion Sort, Quick Sort, Merge Sort and Heap Sort\n\nHashing- Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions – Mid square, Division, Folding, Digit Analysis",
-          "url": "pdf url",
-        },
-      },
-      "Subject1": {
-        "SubjectName": "Data Structures",
-        "SubjectCode": "",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "Basic Concepts of Data Structures",
-          "syllabus":
-              "System Life Cycle, Algorithms, Performance Analysis, Space Complexity, Time Complexity, Asymptotic Notation, Complexity Calculation of Simple Algorithms",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "Arrays and Searching",
-          "syllabus":
-              "Polynomial representation using Arrays, Sparse matrix, Stacks, Queues-Circular Queues, Priority Queues, Double Ended Queues, Evaluation of Expressions\n\nLinear Search and Binary Search",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "Linked List and Memory Management",
-          "syllabus":
-              "Self Referential Structures, Dynamic Memory Allocation, Singly Linked List-Operations on Linked List. Doubly Linked List, Circular Linked List, Stacks and Queues using Linked List, Polynomial representation using Linked List\n\nMemory allocation and de-allocation-First-fit, Best-fit and Worst-fit allocation schemes",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "Trees and Graphs",
-          "syllabus":
-              "Trees, Binary Trees-Tree Operations, Binary Tree Representation, Tree Traversals, Binary Search Trees- Binary Search Tree Operations\n\nGraphs, Representation of Graphs, Depth First Search and Breadth First Search on Graphs, Applications of Graphs",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "Sorting and Hashing",
-          "syllabus":
-              "Sorting Techniques – Selection Sort, Insertion Sort, Quick Sort, Merge Sort and Heap Sort\n\nHashing- Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions – Mid square, Division, Folding, Digit Analysis",
-          "url": "pdf url",
-        },
-      },
-    },
-    "S3": {
-      "NumberOfSubjects": 6,
-      "Subject1": {
-        "SubjectName": "Data Structures",
-        "SubjectCode": "CST201",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "Basic Concepts of Data Structures",
-          "syllabus":
-              "System Life Cycle, Algorithms, Performance Analysis, Space Complexity, Time Complexity, Asymptotic Notation, Complexity Calculation of Simple Algorithms",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "Arrays and Searching",
-          "syllabus":
-              "Polynomial representation using Arrays, Sparse matrix, Stacks, Queues-Circular Queues, Priority Queues, Double Ended Queues, Evaluation of Expressions\n\nLinear Search and Binary Search",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "Linked List and Memory Management",
-          "syllabus":
-              "Self Referential Structures, Dynamic Memory Allocation, Singly Linked List-Operations on Linked List. Doubly Linked List, Circular Linked List, Stacks and Queues using Linked List, Polynomial representation using Linked List\n\nMemory allocation and de-allocation-First-fit, Best-fit and Worst-fit allocation schemes",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "Trees and Graphs",
-          "syllabus":
-              "Trees, Binary Trees-Tree Operations, Binary Tree Representation, Tree Traversals, Binary Search Trees- Binary Search Tree Operations\n\nGraphs, Representation of Graphs, Depth First Search and Breadth First Search on Graphs, Applications of Graphs",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "Sorting and Hashing",
-          "syllabus":
-              "Sorting Techniques – Selection Sort, Insertion Sort, Quick Sort, Merge Sort and Heap Sort\n\nHashing- Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions – Mid square, Division, Folding, Digit Analysis",
-          "url": "pdf url",
-        },
-      },
-      "Subject2": {
-        "SubjectName": "Logic System Design",
-        "SubjectCode": "CST203",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Number systems, Operations & Codes: Decimal, Binary, Octal and Hexadecimal Number Systems- Number Base Conversions. Addition, Subtraction, Multiplication and Division of binary numbers. Representation of negative numbers- Complements, Subtraction with complements. Addition and subtraction of BCD, Octal and Hexadecimal numbers. Binary codes- Decimal codes, Error detection codes, Reflected code, Character coding schemes – ASCII, EBCDIC.",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Boolean Algebra: Postulates of Boolean Algebra. Basic theorems and Properties of Boolean Algebra. Boolean Functions - Canonical and Standard forms. Simplification of Boolean Functions- Using Karnaugh- Map Method (up to five variables), Don’t care conditions, product of sums simplification, Tabulation Method. Digital Logic Gates- Implementation of Boolean functions using basic and universal gates.",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Combinational Logic Circuits: Design Procedure & Implementation of combinational logic circuits- Binary adders and subtractors, Binary Parallel adder, Carry look-ahead adder, BCD adder, Code converter, Magnitude Comparator, Decoder, Demultiplexer, Encoder, Multiplexer, Parity generator/ Checker.",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Sequential logic circuits: Flip-flops- SR, JK, T and D. Triggering of flip-flops- Master-slave flip-flops, Edge- triggered flip-flops. Excitation table and characteristic equation. Registers- register with the parallel load. Counter design: Asynchronous counters- Binary and BCD counters, timing sequences and state diagrams. Synchronous counters- Binary Up-down counter, BCD counter.",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "Shift registers: Shift registers – Serial In Serial Out, Serial In Parallel Out, Bidirectional Shift Register with Parallel load. Ring counter. Johnson counter- timing sequences and state diagrams\n\nArithmetic algorithms: Algorithms for addition and subtraction of binary numbers in signed magnitude and 2’s complement representations. Algorithm for addition and subtraction of BCD numbers. Representation of floating-point numbers, Algorithm for addition and subtraction of floating-point numbers.",
-          "url": "pdf url",
-        },
-      },
-      "Subject3": {
-        "SubjectName": "Object Oriented Programming Using Java",
-        "SubjectCode": "CST205",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Introduction: Approaches to Software Design - Functional Oriented Design, Object Oriented Design, Case Study of Automated Fire Alarm System. Object Modeling Using Unified Modeling Language (UML) – Basic Object Oriented concepts, UML diagrams, Use case model, Class diagram, Interaction diagram, Activity diagram, Statechart diagram. \n\nIntroduction to Java - Java programming Environment and Runtime Environment, Development Platforms -Standard, Enterprise. Java Virtual Machine (JVM), Java compiler, Bytecode, Java applet, Java Buzzwords, Java program structure, Comments, Garbage Collection, Lexical Issues.",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Core Java Fundamentals: Primitive Data types - Integers, Floating-Point Types, Characters, Boolean. Literals, Type Conversion and Casting, Variables, Arrays, Strings, Vector class. \n\nOperators - Arithmetic Operators, Bitwise Operators, Relational Operators, Boolean Logical Operators, Assignment Operator, Conditional (Ternary) Operator, Operator Precedence. Control Statements - Selection Statements, Iteration Statements and Jump Statements. \n\nObject-Oriented Programming in Java - Class Fundamentals, Declaring Objects, Object Reference, Introduction to Methods, Constructors, this Keyword, Method Overloading, Using Objects as Parameters, Returning Objects, Recursion, Access Control, Static Members, Final Variables, Inner Classes, Command Line Arguments, Variable Length Arguments. \n\nInheritance - Super Class, Sub Class, The Keyword super, protected Members, Calling Order of Constructors, Method Overriding, the Object class, Abstract Classes and Methods, using final with Inheritance.",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "More features of Java: Packages and Interfaces - Defining Package, CLASSPATH, Access Protection, Importing Packages, Interfaces.\n\nException Handling - Checked Exceptions, Unchecked Exceptions, try Block and catch Clause, Multiple catch Clauses, Nested try Statements, throw, throws and finally. Input/Output - I/O Basics, Reading Console Input, Writing Console Output, PrintWriter Class, Object Streams and Serialization, Working with Files.",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Advanced features of Java: Java Library - String Handling – String Constructors, String Length, Special String Operations - Character Extraction, String Comparison, Searching Strings, Modifying Strings, using valueOf(), Comparison of StringBuffer and String. \n\nCollections framework - Collections overview, Collections Interfaces- Collection Interface, List Interface. Collections Class – ArrayList class. Accessing a Collection via an Iterator. Event handling - Event Handling Mechanisms, Delegation Event Model, Event Classes, Sources of Events, Event Listener Interfaces, Using the Delegation Model. \n\nMultithreaded Programming - The Java Thread Model, The Main Thread, Creating Thread, Creating Multiple Threads, Synchronization, Suspending, Resuming and Stopping Threads.",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "Graphical User Interface and Database support of Java: Swings fundamentals - Swing Key Features, Model View Controller (MVC), Swing Controls, Components and Containers, Swing Packages, Event Handling in Swings, Swing Layout Managers, Exploring Swings –JFrame, JLabel, The Swing Buttons, JTextField. Java DataBase Connectivity (JDBC) - JDBC overview, Creating and Executing Queries – create a table, delete, insert, select.  ",
-          "url": "pdf url",
-        },
-      },
-      "Subject4": {
-        "SubjectName": "Sustainable Engineering",
-        "SubjectCode": "MNC202",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Sustainability: Introduction, concept, the evolution of the concept; Social, environmental, and economic sustainability concepts; Sustainable development, Nexus between Technology and Sustainable development; Millennium Development Goals (MDGs) and Sustainable Development Goals (SDGs), Clean Development Mechanism (CDM).",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Environmental Pollution: Air Pollution and its effects, Water pollution and its sources, Zero waste concept and 3 R concepts in solid waste management; Greenhouse effect, Global warming, Climate change, Ozone layer depletion, Carbon credits, carbon trading and carbon footprint, legal provisions for environmental protection.",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Environmental management standards: ISO 14001:2015 framework and benefits, Scope and goal of Life Cycle Analysis(LCA), Circular economy, Bio-mimicking, Environment Impact Assessment (EIA), Industrial ecology and industrial symbiosis.",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Resources and their utilisation: Basic concepts of Conventional and non-conventional energy, General idea about solar energy, Fuel cells, Wind energy, Small hydro plants, bio-fuels, Energy derived from oceans and Geothermal energy.",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "Sustainability practices: Basic concept of sustainable habitat, Methods for increasing energy efficiency in buildings, Green Engineering, Sustainable Urbanisation, Sustainable cities, Sustainable transport.  ",
-          "url": "pdf url",
-        },
-      },
-      "Subject5": {
-        "SubjectName": "Design Engineering",
-        "SubjectCode": "EST200",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Design Process: Introduction to Design and Engineering Design, Defining a Design\n\nProcess: Detailing Customer Requirements, Setting Design Objectives, Identifying Constraints, Establishing Functions, Generating Design Alternatives and Choosing a Design.",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Design Thinking Approach: Introduction to Design Thinking, Iterative Design\n\nThinking Process Stages: Empathize, Define, Ideate, Prototype and Test. Design Thinking as Divergent-Convergent Questioning. Design Thinking in a Team Environment.",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Design Communication (Languages of Engineering Design): Communicating Designs Graphically, Communicating Designs Orally and in Writing. Mathematical Modeling In Design, Prototyping and Proofing the Design.",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus": "syllabus",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus": "syllabus",
-          "url": "pdf url",
-        },
-      },
-    },
-    "S5": {
-      "NumberOfSubjects": 6,
-      "Subject1": {
-        "SubjectName": "subject but thisw is from internet :)",
-        "SubjectCode": "CST303",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Introduction – Uses of computer networks, Network hardware, Network software. \n\nReference models – The OSI reference model, The TCP/IP reference model, Comparison of OSI and TCP/IP reference models.\n\nPhysical Layer – Modes of communication, Physical topologies, Signal encoding, Repeaters and hub, Transmission media overview.\n\nPerformance indicators – Bandwidth, Throughput, Latency, Queuing time, Bandwidth–Delay product.Module",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Datalink layer - Data link layer design issues, Error detection and correction, Sliding window protocols, High-Level Data Link Control(HDLC)protocol.\n\nMedium Access Control (MAC) sublayer –Channel allocation problem, Multiple access protocols, Ethernet, Wireless LANs - 802.11, Bridges & switches - Bridges from 802.x to 802.y, Repeaters, Hubs, Bridges, Switches,",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Network layer design issues. Routing algorithms - The Optimality Principle, Shortest path routing, Flooding, Distance Vector Routing, Link State Routing, Multicast routing, Routing for mobile hosts. Congestion control algorithms. \n\nQuality of Service (QoS) - requirements, Techniques for achieving good QoS.",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "IP protocol, IP addresses, Internet Control Message Protocol (ICMP), Address Resolution Protocol (ARP), Reverse Address Resolution Protocol (RARP), Bootstrap Protocol (BOOTP), Dynamic Host Configuration Protocol (DHCP). Open Shortest Path First(OSPF) Protocol, Border Gateway Protocol (BGP), Internet multicasting, IPv6, ICMPv6.",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "Transport service – Services provided to the upper layers, Transport service primitives. User Datagram Protocol (UDP).\n\nTransmission Control Protocol (TCP) – Overview of TCP, TCP segment header, Connection establishment &release, Connection management modelling, TCP retransmission policy, TCP congestion control.\n\nApplication Layer –File Transfer Protocol (FTP), Domain Name System (DNS), Electronic mail, Multipurpose Internet Mail Extension (MIME), Simple Network Management Protocol (SNMP), World Wide Web(WWW) – Architectural overview.",
-          "url": "pdf url",
-        },
-      },
-      "Subject2": {
-        "SubjectName": "subject name",
-        "SubjectCode": "CST305",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "System Software vs Application Software, Different System Software– Assembler, Linker, Loader, Macro Processor, Text Editor, Debugger, Device Driver, Compiler, Interpreter, Operating System (Basic Concepts only). SIC & SIC/XE Architecture, Addressing modes, SIC & SIC/XE Instruction set , Assembler Directives.",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "SIC/XE Programming, Basic Functions of Assembler, Assembler Output Format – Header, Text and End Records. Assembler Data Structures, Two-Pass Assembler Algorithm, Hand Assembly of SIC/XE Programs.",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Machine Dependent Assembler Features-Instruction Format and Addressing Modes, Program Relocation. Machine Independent Assembler Features –Literals, Symbol Defining Statements, Expressions, Program Blocks, Control Sections and Program Linking. Assembler Design Options- One Pass Assembler, Multi Pass Assembler. Implementation Example-MASM Assembler.",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Basic Loader Functions - Design of Absolute Loader, Simple Bootstrap Loader. Machine Dependent Loader Features- Relocation, Program Linking, Algorithm and Data Structures of Two-Pass Linking Loader. Machine Independent Loader Features -Automatic Library Search, Loader Options. Loader Design Options.",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "Macro Preprocessor - Macro Instruction Definition and Expansion, One pass Macro processor Algorithm and data structures, Machine Independent Macro Processor Features, Macro processor design options. Device drivers - Anatomy of a device driver, Character and block device drivers, General design of device drivers. Text Editors- Overview of Editing, User Interface, Editor Structure. Debuggers - Debugging Functions and Capabilities, Relationship with other parts of the system, Debugging Methods- By Induction, Deduction and Backtracking.",
-          "url": "pdf url",
-        },
-      },
-      "Subject3": {
-        "SubjectName": "subject name",
-        "SubjectCode": "CST307",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "8085 microprocessor (-Basic Architecture only). 8086 microprocessor – Architecture and signals, Physical Memory organization, Minimum and maximum mode of 8086 system and timings. Comparison of 8086 and 8088.Machine language Instruction format.",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Addressing Modes of 8086. Instruction set – data copy /transfer instructions, arithmetic instructions, logical instructions, string manipulation instructions, branch instructions, unconditional and conditional branch instructions, flag manipulation and processor control instructions. Assembler Directives and operators. Assembly Language Programming with 8086.",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "The stack structure of 8086, programming using stack- Interrupts - Types of Interrupts and Interrupt Service Routine- Handling Interrupts in 8086- Interrupt programming. - Programmable Interrupt Controller - 8259, Architecture (Just mention the control word, no need to memorize the control word)- Interfacing Memory with 8086",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Programmable Peripheral Input/output port 8255 - Architecture and modes of operation- Programmable interval timer 8254-Architecture and modes of operation- DMA controller 8257 Architecture (Just mention the control word, no need to memorize the control word of 8254 and 8257)",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "8051 Architecture- Register Organization- Memory and I/O addressing- Interrupts and Stack- 8051 Addressing Modes- Instruction Set- data transfer instructions, arithmetic instructions, logical instructions, Boolean instructions, control transfer instructions- Simple programs.",
-          "url": "pdf url",
-        },
-      },
-      "Subject4": {
-        "SubjectName": "subject name",
-        "SubjectCode": "",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Introduction to Software Engineering - Professional software development, Software engineering ethics. Software process models - The waterfall model, Incremental development. Process activities - Software specification, Software design and implementation, Software validation, Software evolution. Coping with change - Prototyping, Incremental delivery, Boehm's Spiral Model. Agile software development - Agile methods, agile manifesto - values and principles. Agile development techniques, Agile Project Management. Case studies: An insulin pump control system. Medicare - a patient information system for mental health care.",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Requirement Analysis and Design - Functional and non-functional requirements, Requirements engineering processes. Requirements elicitation, Requirements validation, Requirements change, Traceability Matrix. Developing use cases, Software Requirements Specification Template, Personas, Scenarios, User stories, Feature identification. Design concepts - Design within the context of software engineering, Design Process, Design concepts, Design Model. Architectural Design - Software Architecture, Architectural Styles, Architectural considerations, Architectural Design Component level design - What is a component?, Designing Class-Based Components, Conducting Component level design, Component level design for web-apps. Template of a Design Document as per “IEEE Std 1016-2009 IEEE Standard for Information Technology Systems Design Software Design Descriptions”. Case study: The Ariane 5 launcher failure.",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Implementation and Testing - Object-oriented design using the UML, Design patterns, Implementation issues, Open-source development - Open-source licensing - GPL, LGPL, BSD. Review Techniques - Cost impact of Software Defects, Code review and statistical analysis. Informal Review, Formal Technical Reviews, Post-mortem evaluations. Software testing strategies - Unit Testing, Integration Testing, Validation testing, System testing, Debugging, White box testing, Path testing, Control Structure testing, Black box testing, Testing Documentation and Help facilities. Test automation, Test-driven development, Security testing. Overview of DevOps and Code Management - Code management, DevOps automation, Continuous Integration, Delivery, and Deployment (CI/CD/CD). Software Evolution - Evolution processes, Software maintenance.",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Software Project Management - Risk management, Managing people, Teamwork. Project Planning, Software pricing, Plan-driven development, Project scheduling, Agile planning. Estimation techniques, COCOMO cost modeling. Configuration management, Version management, System building, Change management, Release management, Agile software management - SCRUM framework. Kanban methodology and lean approaches.",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "Software Quality, Process Improvement and Technology trends Software Quality, Software Quality Dilemma, Achieving Software Quality Elements of Software Quality Assurance, SQA Tasks , Software measurement and metrics. Software Process Improvement(SPI), SPI Process CMMI process improvement framework, ISO 9001:2000 for Software. Cloud-based Software - Virtualisation and containers, Everything as a service(IaaS, PaaS), Software as a service. Microservices Architecture - Microservices, Microservices architecture, Microservice deployment.",
-          "url": "pdf url",
-        },
-      },
-      "Subject5": {
-        "SubjectName": "subject name",
-        "SubjectCode": "MCN301",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "composition, rocks, soils; Atmosphere-layers, ozone layer, greenhouse effect, weather, cyclones, atmospheric circulations, Indian Monsoon; hydrosphere- Oceans, inland water bodies; biosphere Definition and meaning of key terms in Disaster Risk Reduction and Management- disaster, hazard, exposure, vulnerability, risk, risk assessment, risk mapping, capacity, resilience, disaster risk reduction, disaster risk management, early warning systems, disaster preparedness, disaster prevention, disaster mitigation, disaster response, damage assessment, crisis counselling, needs assessment.  ",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Hazard types and hazard mapping - Vulnerability types and their assessment- physical, social, economic and environmental vulnerability.\n\nDisaster risk assessment - approaches, procedures",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Disaster risk management -Core elements and phases of Disaster Risk Management\n\nMeasures for Disaster Risk Reduction – prevention, mitigation, and preparedness.\n\nDisaster response- objectives, requirements; response planning; types of responses\n\nRelief; international relief organizations",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Participatory stakeholder engagement; Disaster communication- importance, methods, barriers, Crisis counselling\n\nCapacity Building: Concept – Structural and Non-structural Measures, Capacity Assessment, Strengthening Capacity for Reducing Risk",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "Common disaster types in India, Legislations in India on disaster management, National disaster management policy, Institutional arrangements for disaster management in India.\n\nThe Sendai Framework for Disaster Risk Reduction- targets, priorities for action, guiding principles",
-          "url": "pdf url",
-        },
-      },
-      "Subject6": {
-        "SubjectName": "subject name",
-        "SubjectCode": "CST301",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus":
-              "Introduction to formal language theory– Alphabets, Strings, Concatenation of strings, Languages. \n\nRegular Languages - Deterministic Finite State Automata (DFA) (Proof of correctness of construction not required), Nondeterministic Finite State Automata (NFA), Equivalence of DFA and NFA, Regular Grammar (RG), Equivalence of RGs and DFA.",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus":
-              "Regular Expression (RE), Equivalence of REs and DFA, Homomorphisms, Necessary conditions for regular languages, Closure Properties of Regular Languages, DFA state minimization (No proof required).",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus":
-              "Myhill-Nerode Relations (MNR)- MNR for regular languages, Myhill-Nerode Theorem (MNT) (No proof required), Applications of MNT. \n\nContext-Free Grammar (CFG)- CFG representation of Context-Free Languages (proof of correctness is required), derivation trees and ambiguity, Normal forms for CFGs.",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus":
-              "Nondeterministic Pushdown Automata (PDA), Deterministic Pushdown Automata (DPDA), Equivalence of PDAs and CFGs (Proof not required), Pumping Lemma for Context-Free Languages (Proof not required), Closure Properties of Context-Free Languages.",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus":
-              "Context-Sensitive Languages - Context Sensitive Grammar (CSG), Linear Bounded Automata.\n\nTuring Machines - Standard Turing Machine, Robustness of Turing Machine, Universal Turing Machine, Halting Problem, Recursive and Recursively Enumerable Languages. Chomsky classification of formal languages.",
-          "url": "pdf url",
-        },
-      },
-    },
-    "S2": {
-      "NumberOfSubjects": 5,
-      "Subject1": {
-        "SubjectName": "subject name",
-        "SubjectCode": "",
-        "NumberOfModules": 5,
-        "M1": {
-          "title": "title",
-          "syllabus": "syllabus",
-          "url": "pdf url",
-        },
-        "M2": {
-          "title": "title",
-          "syllabus": "syllabus",
-          "url": "pdf url",
-        },
-        "M3": {
-          "title": "title",
-          "syllabus": "syllabus",
-          "url": "pdf url",
-        },
-        "M4": {
-          "title": "title",
-          "syllabus": "syllabus",
-          "url": "pdf url",
-        },
-        "M5": {
-          "title": "title",
-          "syllabus": "syllabus",
-          "url": "pdf url",
-        },
-      },
-    },
-  },
-  "Civil": {
-    // "NumberOfSubjects": 5,
-    // "Subject":{
-    //       "SubjectName": "subject name",
-    //       "NumberOfModules": 5,
-    //       "M1":{
-    //         "title": "title",
-    //         "syllabus": "syllabus",
-    //         "url": "pdf url",
-    //       },
-    //       "M2":{
-    //         "title": "title",
-    //         "syllabus": "syllabus",
-    //         "url": "pdf url",
-    //       },
-    //       "M3":{
-    //         "title": "title",
-    //         "syllabus": "syllabus",
-    //         "url": "pdf url",
-    //       },
-    //       "M4":{
-    //         "title": "title",
-    //         "syllabus": "syllabus",
-    //         "url": "pdf url",
-    //       },
-    //       "M5":{
-    //         "title": "title",
-    //         "syllabus": "syllabus",
-    //         "url": "pdf url",
-    //       },
-    //   },
-  },
-  "Electrical": {},
-  "Mechanical": {},
+      "S2": {
+         "NumberOfSubjects": 5,
+         "Subject1": {
+            "SubjectName": "subject name",
+            "SubjectCode": "",
+            "NumberOfModules": 5,
+            "M1": {
+               "title": "title",
+               "syllabus": "syllabus",
+               "url": "pdf url"
+            },
+            "M2": {
+               "title": "title",
+               "syllabus": "syllabus",
+               "url": "pdf url"
+            },
+            "M3": {
+               "title": "title",
+               "syllabus": "syllabus",
+               "url": "pdf url"
+            },
+            "M4": {
+               "title": "title",
+               "syllabus": "syllabus",
+               "url": "pdf url"
+            },
+            "M5": {
+               "title": "title",
+               "syllabus": "syllabus",
+               "url": "pdf url"
+            }
+         }
+      }
+   },
+   "Civil": {},
+   "Electrical": {},
+   "Mechanical": {}
 }
