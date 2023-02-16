@@ -2,8 +2,7 @@
    "ComputerScience": {
       "S1": {
          "NumberOfSubjects": 8,
-         "Subject1": [
-            {
+         "Subject1": {
                "SubjectName": "Engineering Chemistry",
                "SubjectCode": "CYT100",
                "NumberOfModules": 5,
@@ -32,38 +31,7 @@
                   "syllabus": "Water characteristics - Hardness - Types of hardness- Temporary and Permanent - Disadvantages of hard water -Units of hardness- ppm and mg/L -Degree of hardness (Numericals) - Estimationhardness-EDTA method (Numericals). Water softening methods-Ion exchange process-Principle procedure and advantages. Reverse osmosis – principle, process and advantages. Municipal waste treatment (brief) - Disinfection methods - chlorination, ozone and UV irradiation. \n\nDissolved oxygen (DO) -Estimation (only brief procedure-Winkler’s method), BOD and COD- definition, estimation (only brief procedure) and significance (Numericals). Sewage water treatment - Primary, Secondary and Tertiary - Flow diagram -Trickling filter and UASB process.",
                   "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
                }
-            },
-            {
-               "SubjectName": "Data Structures",
-               "SubjectCode": "",
-               "NumberOfModules": 5,
-               "M1": {
-                  "title": "Basic Concepts of Data Structures",
-                  "syllabus": "System Life Cycle, Algorithms, Performance Analysis, Space Complexity, Time Complexity, Asymptotic Notation, Complexity Calculation of Simple Algorithms",
-                  "url": "pdf url"
-               },
-               "M2": {
-                  "title": "Arrays and Searching",
-                  "syllabus": "Polynomial representation using Arrays, Sparse matrix, Stacks, Queues-Circular Queues, Priority Queues, Double Ended Queues, Evaluation of Expressions\n\nLinear Search and Binary Search",
-                  "url": "pdf url"
-               },
-               "M3": {
-                  "title": "Linked List and Memory Management",
-                  "syllabus": "Self Referential Structures, Dynamic Memory Allocation, Singly Linked List-Operations on Linked List. Doubly Linked List, Circular Linked List, Stacks and Queues using Linked List, Polynomial representation using Linked List\n\nMemory allocation and de-allocation-First-fit, Best-fit and Worst-fit allocation schemes",
-                  "url": "pdf url"
-               },
-               "M4": {
-                  "title": "Trees and Graphs",
-                  "syllabus": "Trees, Binary Trees-Tree Operations, Binary Tree Representation, Tree Traversals, Binary Search Trees- Binary Search Tree Operations\n\nGraphs, Representation of Graphs, Depth First Search and Breadth First Search on Graphs, Applications of Graphs",
-                  "url": "pdf url"
-               },
-               "M5": {
-                  "title": "Sorting and Hashing",
-                  "syllabus": "Sorting Techniques – Selection Sort, Insertion Sort, Quick Sort, Merge Sort and Heap Sort\n\nHashing- Hashing Techniques, Collision Resolution, Overflow handling, Hashing functions – Mid square, Division, Folding, Digit Analysis",
-                  "url": "pdf url"
-               }
-            }
-         ],
+         },
          "Subject2": {
             "SubjectName": "Basic Civil",
             "SubjectCode": "EST120",
