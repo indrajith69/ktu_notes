@@ -389,7 +389,7 @@
       "S5": {
          "NumberOfSubjects": 6,
          "Subject1": {
-            "SubjectName": "subject name",
+            "SubjectName": "Computer Networks",
             "SubjectCode": "CST303",
             "NumberOfModules": 5,
             "M1": {
@@ -419,7 +419,7 @@
             }
          },
          "Subject2": {
-            "SubjectName": "subject name",
+            "SubjectName": "System Software",
             "SubjectCode": "CST305",
             "NumberOfModules": 5,
             "M1": {
@@ -449,7 +449,7 @@
             }
          },
          "Subject3": {
-            "SubjectName": "subject name",
+            "SubjectName": "Microprocessors and Microcontrollers",
             "SubjectCode": "CST307",
             "NumberOfModules": 5,
             "M1": {
@@ -479,8 +479,8 @@
             }
          },
          "Subject4": {
-            "SubjectName": "subject name",
-            "SubjectCode": "",
+            "SubjectName": "Management Of Software Systems",
+            "SubjectCode": "CST309",
             "NumberOfModules": 5,
             "M1": {
                "title": "title",
@@ -509,7 +509,7 @@
             }
          },
          "Subject5": {
-            "SubjectName": "subject name",
+            "SubjectName": "Disaster Management",
             "SubjectCode": "MCN301",
             "NumberOfModules": 5,
             "M1": {
@@ -539,7 +539,7 @@
             }
          },
          "Subject6": {
-            "SubjectName": "subject name",
+            "SubjectName": "Formal Languages and Automatoa Theory",
             "SubjectCode": "CST301",
             "NumberOfModules": 5,
             "M1": {
